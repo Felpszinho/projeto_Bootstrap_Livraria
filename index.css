@@ -1,0 +1,96 @@
+body {
+    font-family: 'Pangolin', cursive;
+    
+}
+
+
+.navbar h1 {
+    color: aliceblue;
+}
+.navbar button:hover{
+    background-color: rgb(192, 192, 192);
+}
+
+.nav-link {
+    background-color: rgb(224, 104, 23);
+    color: aliceblue;
+    margin: 8px;
+    border: none;
+border-radius: 10px;
+}
+.nav-link:hover{
+    background-color: rgb(186, 184, 184);
+    color: rgb(70, 69, 70);
+    border: none;
+    border-radius: 20px;
+}
+.navbar-toggler{
+   
+  
+    background-color: rgb(247, 131, 29);
+}
+.text-color{
+    color: orange;
+  
+}
+.carousel-item img{
+ 
+height: 551px;
+  
+
+}
+
+#sobre{
+    background-color: rgb(221, 200, 173);
+}
+.accordion-item{
+    background-color: rgb(232, 238, 218);
+}
+.accordion-button{
+    background-color: rgb(249, 160, 100);
+}
+#cat-livros{
+    color: rgb(255, 115, 0);
+    background-color: rgb(66, 66, 66);
+}
+#cat-livros button{
+    background-color: orange;
+}
+#cat-livros img{
+    width: 200px;
+    height: 280px;
+}
+#fale-conosco{
+    background-color: antiquewhite;
+}
+#fale-conosco ul{
+    list-style: none;
+    
+}
+.social-links  {
+    color: aqua;
+
+}
+.social-links li,a{
+    display: inline;
+    text-decoration: none;
+    list-style: none;
+}
+
+#fale-conosco .btn{
+    background-color: orange;
+
+}
+#fale-conosco .btn:hover{
+    background-color: rgb(21, 233, 49);
+    color: aliceblue;
+    border-radius: 15px;
+
+}
+
+#livros{
+
+   
+    background-color: antiquewhite;
+
+}
